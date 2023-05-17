@@ -1,5 +1,5 @@
 DynamicLibrary {
-    name: "lib"
+    name: "mylib"
 
     files: [
         "lib/**/*.cpp",
